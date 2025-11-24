@@ -1,0 +1,8 @@
+{
+  "name": "VAN GOGH - BROADCAST OUTPUT",
+  "description": "Real-time webcam to oil painting converter with audio reactivity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
